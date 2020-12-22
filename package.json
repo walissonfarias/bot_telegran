@@ -1,0 +1,16 @@
+{
+  "name": "walisson_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walisson",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^0.7.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "youtube-node": "^1.3.3"
+  }
+}
